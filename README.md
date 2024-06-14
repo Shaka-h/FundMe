@@ -128,7 +128,3 @@ To run code formatting:
 forge fmt
 ```
 
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://patrickalphac.medium.com/)
-
-<!-- Testing krunchdata https://kdta.io/b6T40  -->
